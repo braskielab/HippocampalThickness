@@ -1,4 +1,4 @@
-# HippocampalThickness
+# Hippocampal Thickness
 Method to get thickness for hippocampal subfields
 
 Citation:
